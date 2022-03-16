@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryasuta
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python & Go-Language
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me
