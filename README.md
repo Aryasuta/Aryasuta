@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryasuta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning go-language
+- 🌱 I’m currently learning Python & Go-Language
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me
 
